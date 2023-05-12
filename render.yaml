@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: Luna
+    name: MLTB YOHAN
     env: docker
     region: Singapore
     plan: free
